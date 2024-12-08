@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\AuthController;
-use \App\Http\Controllers\Api\ProductController;
 use \App\Http\Controllers\Api\UserController;
 
 use Illuminate\Http\Request;
